@@ -1,0 +1,79 @@
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.AssemblyReference.cache
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdangnhap.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formchucnang.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongtinsach.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form4.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form5.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form6.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form7.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+D:\Bài Tập Cuối Kì\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.pdb
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.AssemblyReference.cache
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdangnhap.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formchucnang.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongtinsach.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form4.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form5.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form6.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form7.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+D:\caylamroi\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.pdb
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.AssemblyReference.cache
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdangnhap.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formchucnang.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongtinsach.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form4.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form5.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form6.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form7.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+D:\caylamroinhe\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.pdb
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.AssemblyReference.cache
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdangnhap.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formchucnang.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongtinsach.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formnhacungcap.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formkhachhang.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form6.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form7.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+D:\caylamroinha\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.pdb
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.AssemblyReference.cache
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdangnhap.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formchucnang.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongtinsach.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formnhacungcap.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formkhachhang.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formthongkebaocao.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.formdanhmucsach.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+D:\Nhóm 7 Làng Đá_CNPM.50_BDU\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
